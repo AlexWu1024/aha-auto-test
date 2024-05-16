@@ -1,0 +1,31 @@
+2024-05-16 14:47:01,729 - INFO - START!
+2024-05-16 14:47:01,729 - INFO - Start Time: 2024-05-16 14:47:01
+2024-05-16 14:47:01,729 - INFO - Program Version: AHA_AI_UI_test_v1.0.1
+2024-05-16 14:47:01,729 - INFO - Project: AHA_AI
+2024-05-16 14:47:01,729 - INFO - Station: UI_test
+2024-05-16 14:47:01,729 - INFO - Log folder: log/AHA_AI/UI_test/20240516/144701
+2024-05-16 14:47:08,392 - INFO - Browser Capabilities:
+2024-05-16 14:47:08,392 - INFO - acceptInsecureCerts: False
+2024-05-16 14:47:08,393 - INFO - browserName: chrome-headless-shell
+2024-05-16 14:47:08,393 - INFO - browserVersion: 125.0.6422.60
+2024-05-16 14:47:08,393 - INFO - chrome: {'chromedriverVersion': '125.0.6422.60 (3ac3319bff9f3e139d632e3d195e3d2d43d86e37-refs/branch-heads/6422@{#1017})', 'userDataDir': '/tmp/.org.chromium.Chromium.LQxp2T'}
+2024-05-16 14:47:08,393 - INFO - fedcm:accounts: True
+2024-05-16 14:47:08,393 - INFO - goog:chromeOptions: {'debuggerAddress': 'localhost:46225'}
+2024-05-16 14:47:08,393 - INFO - networkConnectionEnabled: False
+2024-05-16 14:47:08,393 - INFO - pageLoadStrategy: normal
+2024-05-16 14:47:08,393 - INFO - platformName: linux
+2024-05-16 14:47:08,393 - INFO - proxy: {}
+2024-05-16 14:47:08,393 - INFO - setWindowRect: True
+2024-05-16 14:47:08,393 - INFO - strictFileInteractability: False
+2024-05-16 14:47:08,393 - INFO - timeouts: {'implicit': 0, 'pageLoad': 300000, 'script': 30000}
+2024-05-16 14:47:08,393 - INFO - unhandledPromptBehavior: dismiss and notify
+2024-05-16 14:47:08,393 - INFO - webauthn:extension:credBlob: True
+2024-05-16 14:47:08,393 - INFO - webauthn:extension:largeBlob: True
+2024-05-16 14:47:08,393 - INFO - webauthn:extension:minPinLength: True
+2024-05-16 14:47:08,393 - INFO - webauthn:extension:prf: True
+2024-05-16 14:47:08,393 - INFO - webauthn:virtualAuthenticators: True
+2024-05-16 14:47:44,584 - INFO - Total Elapsed Time: 42.86s
+2024-05-16 14:47:44,584 - INFO - ================ PASS - UI_test (42.86s) =================
+2024-05-16 14:47:44,969 - INFO - Notify test result to slack PASS
+2024-05-16 14:47:46,008 - INFO - Sendgrid Notify PASS
+2024-05-16 14:47:46,009 - INFO - Rename log file: 'AHA_AI_UI_test_144701_[result].log' to 'AHA_AI_UI_test_144701_PASS.log'

@@ -1,0 +1,12 @@
+2024-05-16 14:47:25,845 - INFO - ================ [RunTest] UI.007-Google_oauth_login_pass ================
+2024-05-16 14:47:30,375 - INFO - Click [Login] button SUCCESS
+2024-05-16 14:47:30,680 - INFO - Click [Google Oauth] button SUCCESS
+2024-05-16 14:47:31,584 - INFO - Input [Email] alatest11235813@gmail.com SUCCESS
+2024-05-16 14:47:31,633 - INFO - Click [Continue] button SUCCESS
+2024-05-16 14:47:36,667 - INFO - Input [Password] 1qaz2WSX* SUCCESS
+2024-05-16 14:47:36,712 - INFO - Click [Continue] button SUCCESS
+2024-05-16 14:47:40,410 - INFO - Page title: Discover
+2024-05-16 14:47:40,411 - INFO - Check page title PASS
+2024-05-16 14:47:40,411 - INFO - Google OAuth sign in PASS
+2024-05-16 14:47:40,465 - INFO - ================ PASS - UI.007-Google_oauth_login_pass (14.62s) =================
+2024-05-16 14:47:40,466 - INFO - UI.007|Google_oauth_login_pass|PASS|MESSAGE |ELAPSED 14.62

@@ -1,0 +1,16 @@
+2024-05-16 14:47:16,548 - INFO - ================ [RunTest] UI.005-Logout ================
+2024-05-16 14:47:19,948 - INFO - Enter: https://app.earnaha.com/
+2024-05-16 14:47:22,150 - INFO - Click [Login] button SUCCESS
+2024-05-16 14:47:22,177 - INFO - Input [Email] alatest11235813@gmail.com SUCCESS
+2024-05-16 14:47:22,205 - INFO - Input [Password] 1qaz2WSX* SUCCESS
+2024-05-16 14:47:24,389 - INFO - Click [Continue] button SUCCESS
+2024-05-16 14:47:24,459 - INFO - Page title: Discover
+2024-05-16 14:47:24,459 - INFO - Check page title PASS
+2024-05-16 14:47:24,459 - INFO - Email sign in PASS
+2024-05-16 14:47:24,902 - INFO - Switch to profile page: https://app.earnaha.com/profile/account
+2024-05-16 14:47:24,972 - INFO - Click [Logout] button SUCCESS
+2024-05-16 14:47:25,622 - INFO - Click [Logout check] button SUCCESS
+2024-05-16 14:47:25,789 - INFO - Page title: Login to Practice
+2024-05-16 14:47:25,789 - INFO - Check page title PASS
+2024-05-16 14:47:25,844 - INFO - ================ PASS - UI.005-Logout (9.296s) =================
+2024-05-16 14:47:25,844 - INFO - UI.005|Logout|PASS|MESSAGE |ELAPSED 9.296

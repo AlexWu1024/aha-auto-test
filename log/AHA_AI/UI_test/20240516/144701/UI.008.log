@@ -1,0 +1,12 @@
+2024-05-16 14:47:33,533 - INFO - ================ [RunTest] UI.008-Google_oauth_login_fail ================
+2024-05-16 14:47:38,210 - INFO - Click [Login] button SUCCESS
+2024-05-16 14:47:38,553 - INFO - Click [Google Oauth] button SUCCESS
+2024-05-16 14:47:38,993 - INFO - Input [Email] alatest11235813@gmail.com SUCCESS
+2024-05-16 14:47:39,050 - INFO - Click [Continue] button SUCCESS
+2024-05-16 14:47:44,093 - INFO - Input [Password] alatest123456789 SUCCESS
+2024-05-16 14:47:44,131 - INFO - Click [Continue] button SUCCESS
+2024-05-16 14:47:44,520 - INFO - Find [Wrong password] location SUCCESS
+2024-05-16 14:47:44,527 - INFO - Response: Wrong password. Try again or click Forgot password to reset it.
+2024-05-16 14:47:44,527 - INFO - Google OAuth sign in FAIL
+2024-05-16 14:47:44,581 - INFO - ================ PASS - UI.008-Google_oauth_login_fail (11.048s) =================
+2024-05-16 14:47:44,581 - INFO - UI.008|Google_oauth_login_fail|PASS|MESSAGE |ELAPSED 11.048

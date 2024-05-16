@@ -1,0 +1,20 @@
+2024-05-16 14:47:17,082 - INFO - ================ [RunTest] UI.006-Calendar_Change ================
+2024-05-16 14:47:23,669 - INFO - Enter: https://app.earnaha.com/
+2024-05-16 14:47:25,229 - INFO - Click [Login] button SUCCESS
+2024-05-16 14:47:25,266 - INFO - Input [Email] alatest11235813@gmail.com SUCCESS
+2024-05-16 14:47:25,297 - INFO - Input [Password] 1qaz2WSX* SUCCESS
+2024-05-16 14:47:27,459 - INFO - Click [Continue] button SUCCESS
+2024-05-16 14:47:27,545 - INFO - Page title: Discover
+2024-05-16 14:47:27,545 - INFO - Check page title PASS
+2024-05-16 14:47:27,545 - INFO - Email sign in PASS
+2024-05-16 14:47:28,178 - INFO - Switch to profile page: https://app.earnaha.com/profile/account
+2024-05-16 14:47:28,216 - INFO - Click [Edit Profile] button SUCCESS
+2024-05-16 14:47:29,494 - INFO - Click [Birthday] button SUCCESS
+2024-05-16 14:47:29,517 - INFO - Selected calender date: (2024, 5, 16)
+2024-05-16 14:47:29,971 - INFO - Click [Edit Calender OK] button SUCCESS
+2024-05-16 14:47:30,376 - INFO - Click [Save] button SUCCESS
+2024-05-16 14:47:33,421 - INFO - Click [Edit Profile] button SUCCESS
+2024-05-16 14:47:33,477 - INFO - Expected text: 16/05/24
+2024-05-16 14:47:33,477 - INFO - Check calender edit result PASS
+2024-05-16 14:47:33,533 - INFO - ================ PASS - UI.006-Calendar_Change (16.451s) =================
+2024-05-16 14:47:33,533 - INFO - UI.006|Calendar_Change|PASS|MESSAGE |ELAPSED 16.451

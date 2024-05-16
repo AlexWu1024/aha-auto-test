@@ -1,0 +1,10 @@
+2024-05-16 14:47:08,484 - INFO - ================ [RunTest] UI.002-Email_login_pass_w_enter ================
+2024-05-16 14:47:12,208 - INFO - Enter: https://app.earnaha.com/
+2024-05-16 14:47:13,673 - INFO - Click [Login] button SUCCESS
+2024-05-16 14:47:13,708 - INFO - Input [Email] alatest11235813@gmail.com SUCCESS
+2024-05-16 14:47:13,750 - INFO - Input [Password] 1qaz2WSX* SUCCESS
+2024-05-16 14:47:17,027 - INFO - Page title: Discover
+2024-05-16 14:47:17,027 - INFO - Check page title PASS
+2024-05-16 14:47:17,027 - INFO - Email sign in PASS
+2024-05-16 14:47:17,081 - INFO - ================ PASS - UI.002-Email_login_pass_w_enter (8.598s) =================
+2024-05-16 14:47:17,081 - INFO - UI.002|Email_login_pass_w_enter|PASS|MESSAGE |ELAPSED 8.598

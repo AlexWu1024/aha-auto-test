@@ -1,0 +1,61 @@
+URL: "https://app.earnaha.com/"
+Profile_URL: "https://app.earnaha.com/profile/account"
+Email: ""
+Password: ""
+Gouth_email: ""
+Gouth_password: ""
+Slack: True
+Sendgrid: True
+
+Version:
+  Program: '[project]_[station]_[version]'
+
+Info:
+  Project: AHA_AI
+  Station: UI_test
+
+Addr:
+  slack_channel: ''
+  Slack: ''
+  from_email: ''
+  to_email: ''
+  Sendgrid: ''
+
+path:
+  Log_folder: 'log/[project]/[station]/[date]/[time]'
+  Summary: 'TEST_RESULT_SUMMARY.log'
+  MES_Summary: 'MES_SUMMARY.log'
+  Execution: '[project]_[station]_[time]_[result].log'
+
+Process:
+  UI.001:
+    Item: Email_login_pass_w_button
+    active: True
+
+  UI.002:
+    Item: Email_login_pass_w_enter
+    active: True
+
+  UI.003:
+    Item: Email_login_fail
+    active: True  
+
+  UI.004:
+    Item: Google_oauth_signup
+    active: True
+
+  UI.005:
+    Item: Logout
+    active: True  
+
+  UI.006:
+    Item: Calendar_Change
+    active: True
+
+  UI.007:
+    Item: Google_oauth_login_pass
+    active: True
+
+  UI.008:
+    Item: Google_oauth_login_fail
+    active: True  

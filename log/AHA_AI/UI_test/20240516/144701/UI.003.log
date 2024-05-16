@@ -1,0 +1,11 @@
+2024-05-16 14:47:08,484 - INFO - ================ [RunTest] UI.003-Email_login_fail ================
+2024-05-16 14:47:12,793 - INFO - Enter: https://app.earnaha.com/
+2024-05-16 14:47:14,481 - INFO - Click [Login] button SUCCESS
+2024-05-16 14:47:14,510 - INFO - Input [Email] alatest11235813@gmail.com SUCCESS
+2024-05-16 14:47:14,542 - INFO - Input [Password] alatest123456789 SUCCESS
+2024-05-16 14:47:14,779 - INFO - Click [Continue] button SUCCESS
+2024-05-16 14:47:14,799 - INFO - Find [Wrong password] location SUCCESS
+2024-05-16 14:47:14,812 - INFO - Response: Wrong email or password
+2024-05-16 14:47:14,812 - INFO - Email sign in FAIL
+2024-05-16 14:47:14,865 - INFO - ================ PASS - UI.003-Email_login_fail (6.382s) =================
+2024-05-16 14:47:14,865 - INFO - UI.003|Email_login_fail|PASS|MESSAGE |ELAPSED 6.382
