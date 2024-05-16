@@ -1,9 +1,9 @@
 URL: "https://app.earnaha.com/"
 Profile_URL: "https://app.earnaha.com/profile/account"
-Email: ""
-Password: ""
-Gouth_email: ""
-Gouth_password: ""
+Email: "xxx@example.com"
+Password: "Password"
+Gouth_email: "xxx@example.com"
+Gouth_password: "Password"
 Slack: True
 Sendgrid: True
 
@@ -15,11 +15,11 @@ Info:
   Station: UI_test
 
 Addr:
-  slack_channel: ''
-  Slack: ''
-  from_email: ''
-  to_email: ''
-  Sendgrid: ''
+  slack_channel: '#channel_name'
+  Slack: 'slack_token'
+  from_email: 'xxx@example.com'
+  to_email: 'xxx@example.com'
+  Sendgrid: 'Sendgrid_token'
 
 path:
   Log_folder: 'log/[project]/[station]/[date]/[time]'
